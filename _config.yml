@@ -115,7 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  medium           : "https://medium.com/@yahyasghiouri1998"
+  medium:
+    url             : "https://medium.com/@yahyasghiouri1998"
+    icon            : "medium"
 
 
 # Reading Files

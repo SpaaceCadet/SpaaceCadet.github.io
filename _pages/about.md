@@ -13,25 +13,24 @@ Hey! I’m SGHIOURI Yahya I'm a 23-year-old Moroccan student currently studying 
 Experience 🎒
 ======
 
-## Data Science Internship :July-2023
+### Data Science Internship :July-2023
 
-## Data Visualization Training Program : May-2023
+### Data Visualization Training Program : May-2023
 
 - Development of a Data Visualization Training Program for the Data Science Club at ENSAO.
 
-## Web Developpement Internship : June-2022
+### Web Developpement Internship : June-2022
 
-- <b><u>EMPLOYEE MANAGEMENT AT THE PREFECTURE OF OUJDA-ANGAD :</u> </b>
-
-      - Development of a web application for employee management using PHP, Html, Bootstrap, and database design.
+- EMPLOYEE MANAGEMENT AT THE PREFECTURE OF OUJDA-ANGAD :
+   - Development of a web application for employee management using PHP, Html, Bootstrap, and database design.
 
 
 
 
 Education 🏫
 ======
-1. 2021-present Engineering Program, 2nd year of the Engineering Program in Data Science and Cloud Computing at the National School of Applied Sciences Oujda (ENSAO).
-2. 2019-2021 Preparatory classes at ENSAO.
+1. 2021-present Engineering Program, 2nd year of the Engineering Program in Data Science and Cloud Computing at the National School of Applied Sciences Oujda (ENSAO).<br>
+2. 2019-2021 Preparatory classes at ENSAO.<br>
 3. 2018-2019 High School Diploma, Ali ben berri High School Taza, Morocco, Science and Mathematics track (A) with French option.
 
 <!-- 

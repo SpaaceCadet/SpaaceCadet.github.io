@@ -13,29 +13,28 @@ Hey! I’m SGHIOURI Yahya I'm a 23-year-old Moroccan student currently studying 
 Experience 🎒
 ======
 
-#### Data Science Internship :July-2023
+## Data Science Internship :July-2023
 
-#### Data Visualization Training Program : May-2023
+## Data Visualization Training Program : May-2023
 
 - Development of a Data Visualization Training Program for the Data Science Club at ENSAO.
 
-#### Web Developpement Internship : June-2022
+## Web Developpement Internship : June-2022
 
 - <b><u>EMPLOYEE MANAGEMENT AT THE PREFECTURE OF OUJDA-ANGAD :</u> </b>
- - Development of a web application for employee management using PHP, Html, Bootstrap, and database design.
+
+      - Development of a web application for employee management using PHP, Html, Bootstrap, and database design.
 
 
 
 
-Getting started
+Education 🏫
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. 2021-present Engineering Program, 2nd year of the Engineering Program in Data Science and Cloud Computing at the National School of Applied Sciences Oujda (ENSAO).
+2. 2019-2021 Preparatory classes at ENSAO.
+3. 2018-2019 High School Diploma, Ali ben berri High School Taza, Morocco, Science and Mathematics track (A) with French option.
 
+<!-- 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
@@ -59,3 +58,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

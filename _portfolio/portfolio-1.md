@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Dash app ,for interactive visualizations"
+excerpt: "Dashboard of education rates of women in morocco between the years ,1970 to 2010 , created by the framework dash and plotly .
+<br/><a href='https://github.com/SpaaceCadet/Dash-app-'><img src='/images/dash_app.png'></a>"
 collection: portfolio
 ---
 

@@ -5,4 +5,9 @@ excerpt: "Dashboard of education rates of women in morocco between the years ,19
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Simple dashboard , created by the framework dash and plotly .
+- The Dataset , is about education rates of women in morocco between the years ,1970 to 2010 .
+- The main goalwas to get a certain degree of interactivity in the dashboard , for  good user experience .
+- The Dataset used in this project was cleaned , and treated , before visualization process .
+
+<a href='https://github.com/SpaaceCadet/Dash-app-'>For more details</a>

@@ -1,6 +1,6 @@
 ---
 title: "Desktop app PCA "
-excerpt: "Simple application for PCA with Java"
+excerpt: "Simple application for PCA with Java
 <br/><a href='https://github.com/SpaaceCadet/Desktop-app-PCA'><img src='/pca.png'></a>"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Lstm model for stock market predictions"
-excerpt: "Building an Lstm model for predictions"
+excerpt: "Building an Lstm model for predictions
 <br/><a href='https://github.com/SpaaceCadet/Lstm-model-for-apple-stock-prediction'><img src='/lstm.png'></a>"
 collection: portfolio
 ---

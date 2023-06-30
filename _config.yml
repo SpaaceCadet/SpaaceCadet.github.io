@@ -115,7 +115,16 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  medium           : "https://medium.com/@yahyasghiouri1998"
+  links            :
+    - label: "Made Mistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://mademistakes.com"
+    - label: "Medium"
+      icon: "fa fa-puzzle-piece"
+      url: "https://twitter.com/mmistakes"
+    
+
+
 
 
 # Reading Files

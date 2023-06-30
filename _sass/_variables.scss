@@ -54,13 +54,19 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+//$background-color           : #fff;
+$background-color           : #212529;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+//$code-background-color-dark : $light-gray;
+$code-background-color-dark : white;
+//$text-color                 : $dark-gray;
+$text-color                 : #fbaf7b;
+//$border-color               : $lighter-gray;
+$border-color               : #fbaf7b;
 
-$primary-color              : #7a8288;
+//$primary-color              : #7a8288;
+$primary-color: #ffffff;
+
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -76,7 +82,7 @@ $github-color               : #171516;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
+$linkedin-color             : #fbaf7b;
 $pinterest-color            : #cb2027;
 $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;

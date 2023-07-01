@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "<font color='white'>About me</font>🧑‍💻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,30 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hey! I’m SGHIOURI Yahya I'm a 23-year-old Moroccan student currently studying Data Science & Cloud Computing at National school of applied science of Oujda. My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I  believe that hard work and dedication pays off and it's the only way to success.talent without hard work is meaningless ,I believe in the constant pursuit of learning, as true masters are eternal students.
+*Hey! I’m SGHIOURI Yahya I'm a 23-year-old Moroccan student currently studying Data Science & Cloud Computing at National school of applied science of Oujda. My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I  believe that hard work and dedication pays off and it's the only way to success.talent without hard work is meaningless ,I believe in the constant pursuit of learning, as true masters are eternal students.*
 
-Experience 🎒
-======
-
-### Data Science Internship :July-2023
-
-### Data Visualization Training Program : May-2023
-
-- Development of a Data Visualization Training Program for the Data Science Club at ENSAO.
-
-### Web Developpement Internship : June-2022
-
-- EMPLOYEE MANAGEMENT AT THE PREFECTURE OF OUJDA-ANGAD :
-   - Development of a web application for employee management using PHP, Html, Bootstrap, and database design.
+# <font color="white" style="foont-style:Inter">Experience</font> 🎒
 
 
+### <b><u>Data Science Internship :July-2023</u></b>
+
+### <b><u>Data Visualization Training Program : May-2023</u></b>
+
+- *Development of a Data Visualization Training Program for the Data Science Club at ENSAO.*
+
+### <b><u>Web Developpement Internship : June-2022</u></b>
+
+- *EMPLOYEE MANAGEMENT AT THE PREFECTURE OF OUJDA-ANGAD :*
+   - *Development of a web application for employee management using PHP, Html, Bootstrap, and database design.*
 
 
-Education 🏫
-======
-1. 2021-present Engineering Program, 2nd year of the Engineering Program in Data Science and Cloud Computing at the National School of Applied Sciences Oujda (ENSAO).<br>
-2. 2019-2021 Preparatory classes at ENSAO.<br>
-3. 2018-2019 High School Diploma, Ali ben berri High School Taza, Morocco, Science and Mathematics track (A) with French option.
+
+
+# <font color="white">Education</font>  🏫
+
+1. *2021-present Engineering Program, 2nd year of the Engineering Program in Data Science and Cloud Computing at the National School of Applied Sciences Oujda (ENSAO).* <br>
+2. *2019-2021 Preparatory classes at ENSAO.* <br>
+3. *2018-2019 High School Diploma, Ali ben berri High School Taza, Morocco, Science and Mathematics track (A) with French option.*
 
 <!-- 
 Site-wide configuration

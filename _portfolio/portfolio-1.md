@@ -1,6 +1,6 @@
 ---
-title: "Dash app ,for interactive visualizations"
-excerpt: "Dashboard of education rates of women in morocco between the years ,1970 to 2010 , created by the framework dash and plotly .
+title: "<b>Dash app ,for interactive visualizations</b>"
+excerpt: "<i>Dashboard of education rates of women in morocco between the years ,1970 to 2010 , created by the framework dash and plotly .</i>
 <br/><a href='https://github.com/SpaaceCadet/Dash-app-'><img  width='500' height='300' src='/images/dash_app.png'></a>"
 collection: portfolio
 ---

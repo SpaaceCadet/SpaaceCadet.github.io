@@ -1,6 +1,6 @@
 ---
-title: "logarithm of prostate-specific antigen,"
-excerpt: "Building linear models for predicting logarithm of prostate-specific antigen
+title: "<b>logarithm of prostate-specific antigen,</b>"
+excerpt: "<i>Building linear models for predicting logarithm of prostate-specific antigen</i>
 <br/><a href='https://github.com/SpaaceCadet/Prostate-linear-models'><img width='500' height='300' src='/images/prostate.jpg'></a>"
 collection: portfolio
 ---

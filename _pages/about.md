@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<font color='white'>About me</font>🧑‍💻"
+title: "<font color='#FFF4F4'>About me</font>🧑‍💻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 *Hey! I’m SGHIOURI Yahya I'm a 23-year-old Moroccan student currently studying Data Science & Cloud Computing at National school of applied science of Oujda. My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I  believe that hard work and dedication pays off and it's the only way to success.talent without hard work is meaningless ,I believe in the constant pursuit of learning, as true masters are eternal students.*
 
-# <font color="white" style="foont-style:Inter">Experience</font> 🎒
+# <font color="#FFF4F4" >Experience</font> 🎒
 
 
 ### <b><u>Data Science Internship :July-2023</u></b>
@@ -27,7 +27,7 @@ redirect_from:
 
 
 
-# <font color="white">Education</font>  🏫
+# <font color="#FFF4F4">Education</font>  🏫
 
 1. *2021-present Engineering Program, 2nd year of the Engineering Program in Data Science and Cloud Computing at the National School of Applied Sciences Oujda (ENSAO).* <br>
 2. *2019-2021 Preparatory classes at ENSAO.* <br>

@@ -1,6 +1,6 @@
 ---
-title: "Linear-regression : study cases"
-excerpt: "Some study cases with Linear regression(data preparation , model assessement , model evalution ,hypothesis ..)
+title: "<b>Linear-regression : study cases</b>"
+excerpt: "<i>Some study cases with Linear regression(data preparation , model assessement , model evalution ,hypothesis ..)</i>
 <br/><a href='https://github.com/SpaaceCadet/Linear-regression'><img  width='500' height='300' src='/images/lin_reg.png'></a>"
 collection: portfolio
 ---

@@ -2,7 +2,7 @@
 title: "<b>FBprophet forecasting with anomalies detection
 </b>"
 excerpt: "<i>Modeling seasonal time series Data using Fbprophet and Detecting anomalies using Isolation Forest</i>
-<br/><a href='https://github.com/SpaaceCadet/FBprophet_seasonal_time_series'><img  width='500' height='300' src='/images/prophet.png'></a>"
+<br/><a href='https://github.com/SpaaceCadet/FBprophet_seasonal_time_series'><img  width='600' height='300' src='/images/prophet.png'></a>"
 collection: portfolio
 
 ---

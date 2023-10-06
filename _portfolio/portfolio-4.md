@@ -1,13 +1,14 @@
 ---
-title: "<b>logarithm of prostate-specific antigen,</b>"
-excerpt: "<i>Building linear models for predicting logarithm of prostate-specific antigen</i>
-<br/><a href='https://github.com/SpaaceCadet/Prostate-linear-models'><img width='500' height='300' src='/images/prostate.jpg'></a>"
+title: "<b>Lstm model for stock market predictions</b>"
+excerpt: "<i>Building an Lstm model for predictions</i>
+<br/><a href='https://github.com/SpaaceCadet/Lstm-model-for-apple-stock-prediction'><img  width='500' height='300' src='/images/lstm.png'></a>"
 collection: portfolio
 ---
-- Lpsa, or the logarithm of prostate-specific antigen, is a commonly used variable in predicting prostate cancer outcomes. PSA is a protein produced by the prostate gland, and its levels in the blood can provide valuable information about the presence and progression of prostate cancer. By predicting the lpsa variable, we can estimate the severity and aggressiveness of prostate cancer, which aids in treatment decision-making and patient management.
+- Deep learning models perform are believed to perform better than traditional models like ARIMA ,ARMA ..and machine learning models for time series forecast especially for data that has complex structure, and high variance .
+- The main goal of this project was to discover the architecture of an LSTM model , and why it performs better than traditional ones .
 <br>
-<img src='/images/prostate.jpg'></a>
+<img src='/images/lstm.png'></a>
 <br>
 
-<a href='https://github.com/SpaaceCadet/Prostate-linear-models'>For more details</a>
+<a href='https://github.com/SpaaceCadet/Lstm-model-for-apple-stock-prediction'>For more details</a>
 

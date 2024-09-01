@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-*Hey! I’m SGHIOURI Yahya I'm a 21-year-old Moroccan student currently studying Data Science & Cloud Computing at National school of applied science of Oujda. My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I  believe that hard work and dedication pays off and it's the only way to success.talent without hard work is meaningless ,I believe in the constant pursuit of learning, as true masters are eternal students.*
+*Hey! I’m SGHIOURI Yahya I'm a 22-year-old Moroccan student currently studying Data Science & Cloud Computing at National school of applied science of Oujda. My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I  believe that hard work and dedication pays off and it's the only way to success.talent without hard work is meaningless ,I believe in the constant pursuit of learning, as true masters are eternal students.*
 
 # <font color="#FFF4F4" >Experience</font> 🎒
+
+### <b><u>Internship at BPTECH,Casablanca :February-2024</u></b>
+- *Implementation of a Document Management System (DMS) :*
+  - *Benchmarking of Open Source solutions for Document Management, design of a deployment architecture, log management, configuration, security enhancement, extension, and practical implementation of the solution. Final deployment with the creation of documentation for configuration, operation, and administration.*
 
 
 ### <b><u>Internship at OCP group,El-Jadida :July-2023</u></b>

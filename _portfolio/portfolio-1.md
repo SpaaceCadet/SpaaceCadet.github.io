@@ -1,23 +1,21 @@
 ---
-title: "<b>FBprophet forecasting with anomalies detection
+title: "<b>Building a High Availability Cluster with HAProxy, Keepalived, and Docker: A Step-by-Step Guide
 </b>"
-excerpt: "<i>Modeling seasonal time series Data using Fbprophet and Detecting anomalies using Isolation Forest</i>
-<br/><a href='https://github.com/SpaaceCadet/FBprophet_seasonal_time_series'><img  width='600' height='300' src='/images/prophet.png'></a>"
+excerpt: "<i>Build a high availability cluster with HAProxy, Keepalived, and Docker. Learn setup and deployment for reliable, scalable applications.</i>
+<br/><a href='https://github.com/SpaaceCadet/Docker-compose-HAProxy-Keepalived'><img  width='600' height='300' src='/images/247.png'></a>"
 collection: portfolio
 
 ---
-- FBprophet gained so much popularity in modeling seasonal time series data , it has many robust tools to handle : 
-   - Time series withs known gaps .
-   - Complex Periodic phenomenons such as conditional seasons.
-   - Robust methods to handle outliers changes in trends changes in seasonal components , holidays and special events.
-- It's a framework based on bayesian statistics , and Fourier decompositions concepts , using  smoothing techniques to estimates important patterns in the data .
-- This Jupyter notebook represent a gentle presentation of the general concepts of FBprophet .
-- We used the Nyc passengers dataset which can be found on this link : "https://github.com/numenta/NAB/tree/master/data/realKnownCause" , which is affected by some holiday and special events, which we will handle using Fbprophet methods to handle these special cases .
-- We used Isolation forest algorithme to catch anomalies in the data and show the strength of their effect .
-- The fine tuning was done by Optuna which is a bayesian optimization algorithme , to add some regularization effect . and get the right hyperparameters for our holidays effects .
+This project aims to create a highly available cluster using HAProxy and Keepalived in a containerized environment with Docker Compose.
+
+- **Network Configuration:** The cluster operates under a network bridge with the subnet `10.0.0.0/24`.
+  
+- **VRRP (Virtual Router Redundancy Protocol):** Keepalived uses VRRP behind the scenes to assign a virtual IP address to both HAProxy nodes, ensuring high availability.
+
+- **HAProxy:** HAProxy (High Availability Proxy) is used to balance traffic across backend servers and perform health checks.
 <br>
-<a><img src='/images/prophet.png'></a>
+<a><img src='/images/247.png'></a>
 <br>
 
-<a href='https://github.com/SpaaceCadet/FBprophet_seasonal_time_series'>For more details</a>
+<a href='https://github.com/SpaaceCadet/Docker-compose-HAProxy-Keepalived'>For more details</a>
 

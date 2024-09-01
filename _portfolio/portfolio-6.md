@@ -1,20 +1,13 @@
 ---
-title: "<b>Linear-regression : study cases</b>"
-excerpt: "<i>Some study cases with Linear regression(data preparation , model assessement , model evalution ,hypothesis ..)</i>
-<br/><a href='https://github.com/SpaaceCadet/Linear-regression'><img  width='500' height='300' src='/images/lin_reg.png'></a>"
+title: "<b>logarithm of prostate-specific antigen,</b>"
+excerpt: "<i>Building linear models for predicting logarithm of prostate-specific antigen</i>
+<br/><a href='https://github.com/SpaaceCadet/Prostate-linear-models'><img width='500' height='300' src='/images/prostate.jpg'></a>"
 collection: portfolio
 ---
-- In this repository we are focusing on using linear regression models , So basically i am showing :
-   - How to assess a linear regression model fit .
-   - How to deal with parallel slopes .
-   - How to use hot-encoding to represent categorical data .
-   - How to use mixed models 
-   - How to interpret coefficients , and where or not include constant term and how to do it .
-   - Best practices to create train test datasets and models using pandas and ols from statsmodel.
-   - How to use diagnosis plots for linear regression like R programming .
+- Lpsa, or the logarithm of prostate-specific antigen, is a commonly used variable in predicting prostate cancer outcomes. PSA is a protein produced by the prostate gland, and its levels in the blood can provide valuable information about the presence and progression of prostate cancer. By predicting the lpsa variable, we can estimate the severity and aggressiveness of prostate cancer, which aids in treatment decision-making and patient management.
 <br>
-<img src='/images/lin_reg.png'></a>
+<img src='/images/prostate.jpg'></a>
 <br>
 
-<a href='https://github.com/SpaaceCadet/Linear-regression'>For more details</a>
+<a href='https://github.com/SpaaceCadet/Prostate-linear-models'>For more details</a>
 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Hey! I’m SGHIOURI Yahya I'm a 22-year-old Moroccan student currently studying Data Science & Cloud Computing at National school of applied science of Oujda. My passion for data science stems from my belief in the power of technology to drive positive change. I'm fascinated by how data can be used to solve complex problems and improve people's lives. I  believe that hard work and dedication pays off and it's the only way to success.talent without hard work is meaningless ,I believe in the constant pursuit of learning, as true masters are eternal students.*
+*Hey! I’m SGHIOURI Yahya, a 22-year-old Moroccan engineer specializing in IT Systems Administration and Cloud Computing. My passion lies in designing, implementing, and managing robust IT infrastructures that drive efficiency and innovation. I'm fascinated by the transformative power of cloud technologies and how they enable scalable, secure, and efficient operations. I believe that success is built on hard work and continuous learning, as true mastery comes from being an eternal student. My dedication to excellence ensures that I stay at the forefront of technological advancements, always ready to tackle the next challenge.*
 
 # <font color="#FFF4F4" >Experience</font> 🎒
 
